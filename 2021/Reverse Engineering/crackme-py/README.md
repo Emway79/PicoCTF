@@ -30,7 +30,7 @@ The challenge gives a file containing a python script. This script contains two 
 
 The script automatically calls ***choose_greatest()***, which does nothing special for retrieving the flag. The script also contains a comment which tells that the secret is in this file and that is is encrypted. This secret is ***bezos_cc_secret*** and is probably the encrypted flag.
 
-The flag can be found, by calling the ***decode_secret()*** functions on ***bezos_cc_secret***. The code to find the flag is found in [crack.py](crack.py).
+The flag can be found, by calling the ***decode_secret()*** function on ***bezos_cc_secret***. The code to find the flag is found in [crack.py](crack.py).
 
 ---
 
