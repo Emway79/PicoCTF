@@ -1,7 +1,7 @@
 # Transformation
 
-**Tags:** *[PicoCTF2021](../../) [Reverse Engineering](../)*
-**Author:** MADSTACKS
+**Tags:** *[PicoCTF2021](../../) [Reverse Engineering](../)*\
+**Author:** MADSTACKS\
 **Points:** 20
 
 ---
