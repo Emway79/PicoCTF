@@ -11,7 +11,7 @@
 // Arguments:       1. u32 num1 (int 1)                                         //
 //                  2. u32 num2 (int 2)                                         //
 //                                                                              //
-// Simplification:  If (num1 <= num2) {                                         //
+// Simplification:  if (num1 <= num2) {                                         //
 //                      return num2;                                            //
 //                  } else {                                                    //
 //                      return num1;                                            //
