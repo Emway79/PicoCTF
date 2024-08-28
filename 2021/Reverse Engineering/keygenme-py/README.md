@@ -40,7 +40,7 @@ The input is checked against the following string: "picoCTF{1n_7h3_|&lt3y_of_xxx
 <details>
 <summary><b>Flag</b></summary>
 <br>
-&nbsp; &nbsp; &nbsp; <b>picoCTF{1n_7h3_|&lt3y_of_75fc1081}</b>
+&nbsp; &nbsp; &nbsp; <b>picoCTF{1n_7h3_|&lt3y_of_XXXXXXXX}</b>
 <br>
 </details>
 

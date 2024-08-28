@@ -37,7 +37,7 @@ The flag can be found, by calling the ***decode_secret()*** function on ***bezos
 <details>
 <summary><b>Flag</b></summary>
 <br>
-&nbsp; &nbsp; &nbsp; <b>picoCTF{1|\/|_4_p34|\|ut_8c551048}</b>
+&nbsp; &nbsp; &nbsp; <b>picoCTF{1|\/|_4_p34|\|ut_XXXXXXXX}</b>
 <br>
 </details>
 

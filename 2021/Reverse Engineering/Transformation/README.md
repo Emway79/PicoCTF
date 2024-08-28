@@ -47,7 +47,7 @@ The code to decode the provided string can be found in [decode.py](decode.py).
 <details>
 <summary><b>Flag</b></summary>
 <br>
-&nbsp; &nbsp; &nbsp; <b>picoCTF{16_bits_inst34d_of_8_0ddcd97a}</b>
+&nbsp; &nbsp; &nbsp; <b>picoCTF{16_bits_inst34d_of_8_XXXXXXXX}</b>
 <br>
 </details>
 
