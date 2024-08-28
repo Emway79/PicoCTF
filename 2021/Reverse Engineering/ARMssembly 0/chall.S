@@ -8,16 +8,16 @@
 //////////////////////////////////////////////////////////////////////////////////
 // Description:     Finds the maximum value of both arguments.                  //
 //                                                                              //
-// Arguments:         1. u32 num1 (int 1)                                       //
-//                    2. u32 num2 (int 2)                                       //
+// Arguments:       1. u32 num1 (int 1)                                         //
+//                  2. u32 num2 (int 2)                                         //
 //                                                                              //
-// Simplification:     If (num1 <= num2) {                                      //
-//                        return num2;                                          //
-//                    } else {                                                  //
-//                        return num1;                                          //
-//                    }                                                         //
+// Simplification:  If (num1 <= num2) {                                         //
+//                      return num2;                                            //
+//                  } else {                                                    //
+//                      return num1;                                            //
+//                  }                                                           //
 //                                                                              //
-// Returns:            The maximum value of both arguments.                     //
+// Returns:         The maximum value of both arguments.                        //
 //////////////////////////////////////////////////////////////////////////////////
 func1:
     sub    sp, sp, #16           // SP = SP - 16                                // Reserve 16 bytes on the stackframe            
@@ -49,18 +49,18 @@ func1:
 
 //////////////////////////////////////////////////////////////////////////////////
 // Description:     Takes two 32bit numbers in string representation from       //
-//                    the command line, converts them to integers and then      // 
-//                    prints the maximum of the two to the standard output.     //
+//                  the command line, converts them to integers and then        // 
+//                  prints the maximum of the two to the standard output.       //
 //                                                                              //
-// Arguments:         1. u32 W0 (int argc = command line argument count)        //
-//                    2. char** X1 (char** argv = command line argument array)  //
-//                         [Path, 1st argument, 2nd argument]                   //
+// Arguments:       1. u32 W0 (int argc = command line argument count)          //
+//                  2. char** X1 (char** argv = command line argument array)    //
+//                       [Path, 1st argument, 2nd argument]                     //
 //                                                                              //
-// Simplification:     u32 num1 = stringToInt(arg1);                            //
-//                    u32 num2 = stringToInt(arg2);                             //
-//                    u32 max = max(num1, num2);                                //
-//                    printf("Result: %ld\n", max);                             //
-//                    return 0;                                                 //
+// Simplification:  u32 num1 = stringToInt(arg1);                               //
+//                  u32 num2 = stringToInt(arg2);                               // 
+//                  u32 max = max(num1, num2);                                  //
+//                  printf("Result: %ld\n", max);                               //
+//                  return 0;                                                   //
 //                                                                              //
 // Returns:         0 if succesfull, otherwise an error code.                   //
 //////////////////////////////////////////////////////////////////////////////////
