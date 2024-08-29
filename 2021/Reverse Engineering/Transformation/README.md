@@ -2,7 +2,7 @@
 
 **Tags:** *[PicoCTF2021](../../), [Reverse Engineering](../)*\
 **Author:** MADSTACKS\
-**Difficulty:** <span style="background-color:#127c69; color:#ffffff; border-radius: .875rem;border-style: none; font-size:14px; font-weight: 00;padding: 2px 8px;"><b>Easy</b></span>
+**Difficulty:** Easy
 
 ---
 
