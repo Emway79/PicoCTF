@@ -1,8 +1,8 @@
 # crackme-py
 
-**Tags:** *[PicoCTF2021](../../) [Reverse Engineering](../)*\
+**Tags:** *[PicoCTF2021](../../), [Reverse Engineering](../)*\
 **Author:** SYREAL\
-**Points:** 30
+**Difficulty:** <span style="background-color:#d97920; color:#ffffff; border-radius: .875rem;border-style: none; font-size:14px; font-weight: 00;padding: 2px 8px;"><b>Medium</b></span>
 
 ---
 
